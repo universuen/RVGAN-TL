@@ -1,0 +1,13 @@
+torch~=1.10.2+cu102
+numpy~=1.22.1
+pandas~=1.4.0
+sklearn~=0.0
+scikit-learn~=1.0.2
+tqdm~=4.62.3
+seaborn~=0.11.2
+matplotlib~=3.5.1
+imblearn~=0.0
+openpyxl~=3.0.9
+adapt~=0.3.0
+Jinja2~=3.0.3
+scipy~=1.7.3
